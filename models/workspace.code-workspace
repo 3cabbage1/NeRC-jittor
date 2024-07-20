@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../data/qjx/neus"
+		},
+		{
+			"path": "../../../caustics/nerf-pytorch"
+		},
+		{
+			"path": "../../../NeuS-M0/NeuS-main"
+		},
+		{
+			"path": "../../NeuS-B"
+		}
+	],
+	"settings": {}
+}
